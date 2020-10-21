@@ -1,0 +1,7 @@
+﻿  pipeplay.cpp
+e:\pipeplay\pipeplay\pipeplay.cpp(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\pipeplay\pipeplay\pipeplay.cpp(147): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\pipeplay\pipeplay\pipeplay.cpp(150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\pipeplay\pipeplay\pipeplay.cpp(153): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\pipeplay\pipeplay\pipeplay.cpp(156): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  pipeplay.vcxproj -> E:\pipeplay\Debug\pipeplay.exe
